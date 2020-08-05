@@ -7,4 +7,4 @@ This is a sample readme file for our Github Example repo. We're learning Markdow
 * Its pretty cool, right?
 
 ## LINK Example
-[Sherman](https://www.codetime.io)
+[Codetime](https://www.codetime.io)
